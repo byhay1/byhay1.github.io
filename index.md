@@ -11,7 +11,7 @@ highly valued.
 - C++
 - Java
 - SQL 
-- - _Working On..._
+### _Working On..._
 - Python
 - PowerShell
 - Solidity
