@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Welcome to my Github Page
 
-You can use the [editor on GitHub](https://github.com/byhay1/byhay1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Why do I code?
+I work in cybersecurity and just about anything information technology. My concern is that IT/Security professionals know
+how to use a tool, but they do not know how the tool works. And with the advent of Machine Learning and A.I., I firmly 
+believe there will no longer be a need for these "I.T. Professionals" and those who can maintain the A.I. will be 
+highly valued.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Programming Language/Script Skills
+- HTML
+- C++
+- Java
+- SQL 
+- - _Working On..._
+- Python
+- PowerShell
+- Solidity
 
-### Markdown
+### Tool Skills
+- Splunk
+- Tanium 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Other Interest
+I like to think that I am a jack of all trades, of some sort. I love art and the idea of creating something from nothing. 
+Art is like programming because you are given a canvas (computer), brush (hands), and paint (mind). Including art, I am 
+an crypto enthusiast interested in everything Blockchain; and, literally everything "crypto" including encryption, cipher 
+suites, obfuscation, etc. And if it is not cryptography related then I'm learning as much as I can about Artificial 
+Intelligence, Machine Learning, and Complete Automation. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/byhay1/byhay1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
