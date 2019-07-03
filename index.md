@@ -6,6 +6,8 @@ how to use a tool, but they do not know how the tool works. And with the advent 
 believe there will no longer be a need for these "I.T. Professionals" and those who can maintain the A.I. will be 
 highly valued.
 
+Please go to https://github.com/byhay1 for my code
+
 ### Programming Language/Script Skills
 - HTML
 - C++
